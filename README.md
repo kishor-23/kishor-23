@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+!++I+am+kishor+%E2%9C%A8)](https://git.io/typing-svg)
 <!--
 **kishor-23/kishor-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
