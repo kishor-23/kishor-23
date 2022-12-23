@@ -1,5 +1,4 @@
 
-<h3 align="center">Hi there 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi!+I+am+kishor&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
