@@ -21,10 +21,25 @@
 - ⚡ Fun fact : when I wrote some code only God & I understood what it did, Later only God knows
 
 
-<h2 style="font-size:32px; font-weight: bold;">🌐 Connect with me:</h2>
+---
+
+<h2>☕ Support Me</h2>
+
+If you like my work, consider buying me a coffee to keep me motivated:
+
+<a href="https://coff.ee/kishor_23" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee">
+</a>
+
+---
+
+<h2>🌐 Connect with me:</h2>
 <p align="left">
-  <a href="https://www.linkedin.com/in/kishor-l/"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a>
- </p>
+  <a href="https://www.linkedin.com/in/kishor-l/"><img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/kishor-23"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 
