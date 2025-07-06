@@ -9,7 +9,7 @@
 
 
 
-<h3 align="center">A Computer Science Graduate </h3>
+<h3 align="center"> Software Developer • Computer Science Graduate </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishor-23&label=Profile%20views&color=0e75b6&style=flat" alt="kishor-23" /> </p>
 
 - 🌱 I’m currently learning **something new**
@@ -21,7 +21,6 @@
 - ⚡ Fun fact : when I wrote some code only God & I understood what it did, Later only God knows
 
 
----
 
 <h2>☕ Support Me</h2>
 
@@ -31,7 +30,6 @@ If you like my work, consider buying me a coffee to keep me motivated:
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee">
 </a>
 
----
 
 <h2>🌐 Connect with me:</h2>
 <p align="left">
@@ -39,7 +37,6 @@ If you like my work, consider buying me a coffee to keep me motivated:
   <a href="https://github.com/kishor-23"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
----
 
 <h3 align="left">Languages and Tools:</h3>
 
