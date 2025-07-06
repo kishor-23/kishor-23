@@ -20,15 +20,24 @@
 
 - ⚡ Fun fact : when I wrote some code only God & I understood what it did, Later only God knows
 
+<h2>☕ Support My Work</h2>
 
 
-<h2>☕ Support Me</h2>
+<p>
+  <!-- Buy Me a Chai (India – UPI) -->
+<a href="https://onlychai.neocities.org/support.html?name=kishor&upi=kishorkishor2003-1%40okhdfcbank" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/UPI_logo.svg" alt="Buy Me a Chai via UPI" width="140" height="50" style="margin-right: 30px;" />
+  </a>
 
-If you like my work, consider buying me a coffee to keep me motivated:
 
-<a href="https://coff.ee/kishor_23" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee">
-</a>
+  <!-- Buy Me a Coffee (Global) -->
+  <a href="https://coff.ee/kishor_23" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="210" height="50" style="border-radius: 30px;" />
+  </a>
+</p>
+
+
+
 
 
 <h2>🌐 Connect with me:</h2>
